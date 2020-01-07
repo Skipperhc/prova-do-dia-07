@@ -1,0 +1,6 @@
+E:\Progetos-Git\meu crud\meu crud\bin\Debug\meu crud.exe.config
+E:\Progetos-Git\meu crud\meu crud\bin\Debug\meu crud.exe
+E:\Progetos-Git\meu crud\meu crud\bin\Debug\meu crud.pdb
+E:\Progetos-Git\meu crud\meu crud\obj\Debug\meu crud.csprojAssemblyReference.cache
+E:\Progetos-Git\meu crud\meu crud\obj\Debug\meu crud.exe
+E:\Progetos-Git\meu crud\meu crud\obj\Debug\meu crud.pdb
